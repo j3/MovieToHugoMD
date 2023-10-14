@@ -1,5 +1,5 @@
 # MovieToHugoMD
-A Python script for obtaining movie information from IMDB, assigning a rating, and saving these details to a .md file that can be utilized by Hugo.
+A Python script for obtaining movie information from IMDB, assigning a rating, and saving these details to a .md (and poster to a .jpg) file that can be utilized by Hugo.
 
 # How to change where the files are saved ?
 
