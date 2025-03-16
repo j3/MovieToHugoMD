@@ -10,4 +10,4 @@ For the .jpg :
   - [L.76] : Replace /static/img/movies/
 
 # Do you garantee x ?
-No, this script is tailored to my specific setup and may not be suitable for others. If you require any assistance, please don't hesitate to reach out to me (https://1337.black/contact/).
+No, this script is tailored to my specific setup and may not be suitable for others. If you require any assistance, please don't hesitate to reach out to me.
